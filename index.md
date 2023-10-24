@@ -1,5 +1,5 @@
 # Seth Erickson
 
-I a data services librarian at UCSB. My responsibilities include:
+I am data services librarian at UCSB. My responsibilities include:
 
 - Teaching carpentry workshops
