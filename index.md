@@ -9,3 +9,4 @@ I am data services librarian at UCSB. My responsibilities include:
 I am staff researcher at UCSB. My responsibilities include:
 
 - Teaching
+- Consulting 
