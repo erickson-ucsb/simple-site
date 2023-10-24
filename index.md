@@ -1,4 +1,4 @@
-# Seth Erickson
+# Seth Erickson - changed
 
 I am data services librarian at UCSB. My responsibilities include:
 
